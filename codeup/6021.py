@@ -1,0 +1,6 @@
+wo=input()
+print(wo[0])
+print(wo[1])
+print(wo[2])
+print(wo[3])
+print(wo[4])
